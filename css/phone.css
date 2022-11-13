@@ -1,0 +1,31 @@
+#navbar{
+    flex-direction: column;
+}
+#home p{
+    width:840px;
+}
+#services{
+    flex-direction: column;
+}
+#services .box img {
+    height: 154px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+.client::before{
+    width: 91%;
+}
+#navbar::before{
+    height:117%;
+}
+
+
+
+
+
+
+.btn-1{
+    position: relative;
+    top:0px;
+}
